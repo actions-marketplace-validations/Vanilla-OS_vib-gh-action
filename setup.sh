@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VIB_VERSION="1.0.6"
+VIB_VERSION="1.0.7"
 PLUGINS_ARG="${1:-}"
 
 case "$RUNNER_ARCH" in
